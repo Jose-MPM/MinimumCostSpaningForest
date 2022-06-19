@@ -1,4 +1,4 @@
-# Practice 4: Minimum Weight Generator Forest(Bosque generador de peso mínimo)
+# Minimum Weight Generator Forest(Bosque generador de peso mínimo)
 
 * By José Manuel Pedro Méndez On June-15-2022
 
