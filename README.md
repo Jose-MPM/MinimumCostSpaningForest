@@ -24,6 +24,7 @@ $ javac KruskalMWGF.java
 ```
 $ javac java KruskalMWGF Exemplo.txt
 ```
-
+## Expressions of gratitude 🎁
+* Share and tell others about this project 📢
 ---
 ⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
