@@ -29,6 +29,7 @@ $ javac java KruskalMWGF Example.txt
 ## Input
 
 * The graph G is given by the file E:
+
 | ![](img/Extxt.png) |
 |:---------------------------:|
 | Example.txt content. |
